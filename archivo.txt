@@ -1,0 +1,26 @@
+git status
+
+git status
+git commit -m "agregue un archivo xd" 
+git log
+git statutes
+git status
+git add archivo.txt
+
+
+cd C:\Users\Personal\Desktop\Actosoft practicas\git_first_example
+
+C:\Users\Personal>cd C:\Users\Personal\Desktop\Actosoft practicas\git_first_example
+cls
+cls
+CLS
+C:\Users\Personal\Desktop\Actosoft practicas\git_first_example
+
+
+
+
+ssd
+asd
+asd
+
+
